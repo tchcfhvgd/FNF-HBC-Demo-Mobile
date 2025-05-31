@@ -311,6 +311,7 @@ for (i in 0...optionShit.length)
 			}
 			persistentUpdate = true;
 			persistentDraw = true;
+			mobile.MobileData.init();
 		}
 
 		if (FlxG.save.data.weekCompleted != null)

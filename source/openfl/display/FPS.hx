@@ -17,6 +17,10 @@ import openfl.Lib;
 import openfl.system.System;
 #end
 
+#if lime
+import lime.system.System as LimeSystem;
+#end
+
 /**
 	The FPS class provides an easy-to-use monitor to display
 	the current frame rate of an OpenFL project
@@ -25,12 +29,22 @@ import openfl.system.System;
 @:fileXml('tags="haxe,release"')
 @:noDebug
 #end
+#if cpp
+#if windows
+@:cppFileCode('#include <windows.h>')
+#elseif (ios || mac)
+@:cppFileCode('#include <mach-o/arch.h>')
+#else
+@:headerInclude('sys/utsname.h')
+#end
+#end
 class FPS extends TextField
 {
 	/**
 		The current frame rate, expressed using frames-per-second
 	**/
 	public var currentFPS(default, null):Int;
+	private var os:String = '';
 
 	@:noCompletion private var cacheCount:Int;
 	@:noCompletion private var currentTime:Float;
@@ -39,6 +53,10 @@ class FPS extends TextField
 	public function new(x:Float = 10, y:Float = 10, color:Int = 0x000000)
 	{
 		super();
+
+		#if !officialBuild
+		os = '\nOS: ${LimeSystem.platformName} ${getArch() != 'Unknown' ? getArch() : ''} ${(LimeSystem.platformName == LimeSystem.platformVersion || LimeSystem.platformVersion == null) ? '' : '- ' + LimeSystem.platformVersion}';
+		#end
 
 		this.x = x;
 		this.y = y;
@@ -86,9 +104,11 @@ class FPS extends TextField
 			var memoryMegas:Float = 0;
 			
 			#if openfl
-			memoryMegas = Math.abs(FlxMath.roundDecimal(System.totalMemory / 1000000, 1));
+			memoryMegas = Math.abs(FlxMath.roundDecimal(#if cpp cpp.vm.Gc.memInfo64(cpp.vm.Gc.MEM_INFO_USAGE) #else System.totalMemory #end / 1000000, 1));
 			text += "\nMemory: " + memoryMegas + " MB";
 			#end
+
+			text += os;
 
 			textColor = 0xFFFFFFFF;
 			if (memoryMegas > 3000 || currentFPS <= ClientPrefs.framerate / 2)
@@ -106,5 +126,45 @@ class FPS extends TextField
 		}
 
 		cacheCount = currentCount;
+	}
+
+	#if windows
+	@:functionCode('
+		SYSTEM_INFO osInfo;
+
+		GetSystemInfo(&osInfo);
+
+		switch(osInfo.wProcessorArchitecture)
+		{
+			case 9:
+				return ::String("x86_64");
+			case 5:
+				return ::String("ARM");
+			case 12:
+				return ::String("ARM64");
+			case 6:
+				return ::String("IA-64");
+			case 0:
+				return ::String("x86");
+			default:
+				return ::String("Unknown");
+		}
+	')
+	#elseif (ios || mac)
+	@:functionCode('
+		const NXArchInfo *archInfo = NXGetLocalArchInfo();
+    	return ::String(archInfo == NULL ? "Unknown" : archInfo->name);
+	')
+	#elseif cpp
+	@:functionCode('
+		struct utsname osInfo{};
+		uname(&osInfo);
+		return ::String(osInfo.machine);
+	')
+	#end
+	@:noCompletion
+	private function getArch():String
+	{
+		return "Unknown";
 	}
 }
