@@ -1,0 +1,35 @@
+{
+	"storyName": "CASUALTIES",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Casualties",
+	"weekBefore": "Nene",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Unmanageable",
+			"FBGreew1",
+			[
+				191,
+				105,
+				0
+			]
+		],
+		[
+			"LORE",
+			"dred_guy_icons",
+			[
+				0,
+				45,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Casualties"
+}

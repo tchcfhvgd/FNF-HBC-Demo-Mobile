@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf d2 talkpng.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE UP0000" x="18" y="18" width="371" height="404"/>
+	<SubTexture name="BF NOTE UP0001" x="18" y="18" width="371" height="404"/>
+	<SubTexture name="BF idle dance0000" x="421" y="18" width="410" height="409"/>
+	<SubTexture name="BF idle dance0001" x="421" y="18" width="410" height="409"/>
+	<SubTexture name="BF idle dance0002" x="421" y="18" width="410" height="409"/>
+	<SubTexture name="BF idle dance0003" x="421" y="18" width="410" height="409"/>
+	<SubTexture name="BF idle dance0004" x="421" y="18" width="410" height="409"/>
+	<SubTexture name="BF idle dance0005" x="421" y="18" width="410" height="409"/>
+</TextureAtlas>

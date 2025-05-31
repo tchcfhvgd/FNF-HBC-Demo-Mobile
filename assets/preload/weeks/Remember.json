@@ -1,0 +1,44 @@
+{
+	"storyName": "REMEMBER",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Remember",
+	"weekBefore": "Nene",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Underage User",
+			"brantony_icon",
+			[
+				109,
+				200,
+				255
+			]
+		],
+		[
+			"Spookychrome",
+			"pumpdies",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Empty Memories",
+			"lilaicon1",
+			[
+				78,
+				58,
+				100
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Remember"
+}

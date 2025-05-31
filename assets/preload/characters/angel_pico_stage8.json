@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				8
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-8
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				25
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-14
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance0"
+		},
+		{
+			"offsets": [
+				0,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Pico Idle Dance-alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-74
+			],
+			"anim": "dead",
+			"fps": 24,
+			"name": "Pico dead irl",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angel_pico_stage8",
+	"position": [
+		50,
+		300
+	],
+	"healthicon": "PICO_-_D3_-_8",
+	"flip_x": true,
+	"healthbar_colors": [
+		35,
+		0,
+		0
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

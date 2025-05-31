@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "lila idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lila left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lila right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-36
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lila up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				-10
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lila down0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "LilaHouse/Characters/lila_sadge",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lilaicon1",
+	"flip_x": true,
+	"healthbar_colors": [
+		189,
+		150,
+		225
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CorruptedBoppersfix.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bobbers0000" x="18" y="18" width="1971" height="904"/>
+	<SubTexture name="bobbers0001" x="18" y="18" width="1971" height="904"/>
+	<SubTexture name="bobbers0002" x="2021" y="18" width="1971" height="904"/>
+	<SubTexture name="bobbers0003" x="2021" y="18" width="1971" height="904"/>
+	<SubTexture name="bobbers0004" x="18" y="954" width="1971" height="904"/>
+	<SubTexture name="bobbers0005" x="18" y="954" width="1971" height="904"/>
+	<SubTexture name="bobbers0006" x="2021" y="954" width="1971" height="904"/>
+	<SubTexture name="bobbers0007" x="2021" y="954" width="1971" height="904"/>
+</TextureAtlas>

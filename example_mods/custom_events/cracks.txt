@@ -1,0 +1,4 @@
+flashes cracks
+Value 1: speed
+max opacity is 0.5
+use spookycracks for full opacity

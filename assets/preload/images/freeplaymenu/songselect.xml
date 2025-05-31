@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="songselect.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="song back0000" x="18" y="18" width="937" height="110"/>
+	<SubTexture name="song back selected0000" x="18" y="160" width="937" height="305"/>
+	<SubTexture name="song back selected0001" x="18" y="160" width="937" height="305"/>
+	<SubTexture name="song back selected0002" x="18" y="160" width="937" height="305"/>
+	<SubTexture name="song back selected0003" x="18" y="160" width="937" height="305"/>
+	<SubTexture name="song back selected0004" x="18" y="160" width="937" height="305"/>
+	<SubTexture name="song back selected0005" x="18" y="160" width="937" height="305"/>
+	<SubTexture name="song back selected FLASH0000" x="18" y="160" width="937" height="305"/>
+	<SubTexture name="song back selected FLASH0001" x="18" y="497" width="937" height="305"/>
+</TextureAtlas>

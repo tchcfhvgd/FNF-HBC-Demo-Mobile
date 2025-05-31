@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chuddin idle0"
+		},
+		{
+			"offsets": [
+				2,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chuddin left0"
+		},
+		{
+			"offsets": [
+				12,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chuddin down0"
+		},
+		{
+			"offsets": [
+				-8,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chuddin up0"
+		},
+		{
+			"offsets": [
+				8,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chuddin right0"
+		},
+		{
+			"offsets": [
+				47,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Feared",
+			"indices": [],
+			"name": "chuddin AYO0"
+		},
+		{
+			"offsets": [
+				47,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Feared-loop",
+			"indices": [
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94
+			],
+			"name": "chuddin AYO"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bar/Characters/CDarnell/CorruptedDarnellD1",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "CPico-CDarnell",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

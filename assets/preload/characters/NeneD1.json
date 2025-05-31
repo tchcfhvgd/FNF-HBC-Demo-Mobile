@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle-altknife",
+			"fps": 24,
+			"name": "Idle-alt0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				15
+			],
+			"loop": false,
+			"anim": "Knife Throw",
+			"fps": 24,
+			"name": "knifethrow0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle-altnoknife",
+			"fps": 24,
+			"name": "Idle-noknife0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				153,
+				-14
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				-14
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left-alt0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				-49
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-95,
+				-18
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right-alt0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				108
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				46
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up-alt0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				-102
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-63,
+				-79
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down-alt0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Knife Pullout",
+			"loop": false,
+			"name": "hello mario"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bar/Characters/Nene/NeneD1",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "NeneD1",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		128,
+		201
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

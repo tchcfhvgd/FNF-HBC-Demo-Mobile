@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freeplay_tvscreen.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tv screen0000" x="18" y="18" width="1187" height="779" frameX="-15" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screen0001" x="18" y="18" width="1187" height="779" frameX="-15" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screen0002" x="1237" y="18" width="1187" height="779" frameX="-15" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screen0003" x="2456" y="18" width="1200" height="779" frameX="-8" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screen0004" x="18" y="829" width="1206" height="779" frameX="-2" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screen0005" x="1256" y="829" width="1208" height="779"/>
+	<SubTexture name="tv screen0006" x="2496" y="829" width="1191" height="779" frameX="-12" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screenOFF0000" x="2496" y="829" width="1191" height="779" frameX="-12" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screenOFF0001" x="1256" y="829" width="1208" height="779"/>
+	<SubTexture name="tv screenOFF0002" x="18" y="829" width="1206" height="779" frameX="-2" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screenOFF0003" x="2456" y="18" width="1200" height="779" frameX="-8" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screenOFF0004" x="1237" y="18" width="1187" height="779" frameX="-15" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screenOFF0005" x="18" y="18" width="1187" height="779" frameX="-15" frameY="0" frameWidth="1208" frameHeight="779"/>
+	<SubTexture name="tv screenOFF0006" x="18" y="18" width="1187" height="779" frameX="-15" frameY="0" frameWidth="1208" frameHeight="779"/>
+</TextureAtlas>

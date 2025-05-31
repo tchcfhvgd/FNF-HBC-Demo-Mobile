@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PotBartender.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pot idle0000" x="18" y="18" width="1919" height="928"/>
+	<SubTexture name="Pot idle0001" x="18" y="18" width="1919" height="928"/>
+	<SubTexture name="Pot idle0002" x="1969" y="18" width="1918" height="928" frameX="0" frameY="0" frameWidth="1919" frameHeight="928"/>
+	<SubTexture name="Pot idle0003" x="1969" y="18" width="1918" height="928" frameX="0" frameY="0" frameWidth="1919" frameHeight="928"/>
+	<SubTexture name="Pot idle0004" x="3919" y="18" width="1896" height="928" frameX="0" frameY="0" frameWidth="1919" frameHeight="928"/>
+	<SubTexture name="Pot idle0005" x="3919" y="18" width="1896" height="928" frameX="0" frameY="0" frameWidth="1919" frameHeight="928"/>
+	<SubTexture name="Pot idle0006" x="5847" y="18" width="1892" height="928" frameX="0" frameY="0" frameWidth="1919" frameHeight="928"/>
+	<SubTexture name="Pot idle0007" x="5847" y="18" width="1892" height="928" frameX="0" frameY="0" frameWidth="1919" frameHeight="928"/>
+	<SubTexture name="Pot idle0008" x="18" y="978" width="1896" height="928" frameX="0" frameY="0" frameWidth="1919" frameHeight="928"/>
+	<SubTexture name="Pot idle0009" x="18" y="978" width="1896" height="928" frameX="0" frameY="0" frameWidth="1919" frameHeight="928"/>
+	<SubTexture name="Pot fear0000" x="1946" y="978" width="1919" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear0001" x="1946" y="978" width="1919" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear0002" x="3897" y="978" width="1937" height="928"/>
+	<SubTexture name="Pot fear0003" x="3897" y="978" width="1937" height="928"/>
+	<SubTexture name="Pot fear0004" x="5866" y="978" width="1915" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear0005" x="18" y="1938" width="1757" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear0006" x="1807" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear0007" x="1807" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear0008" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear0009" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0000" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0001" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0002" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0003" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0004" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0005" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0006" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0007" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0008" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+	<SubTexture name="Pot fear idle0009" x="3575" y="1938" width="1736" height="928" frameX="0" frameY="0" frameWidth="1937" frameHeight="928"/>
+</TextureAtlas>

@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Darnell, go home. Get help. Something. I'll deal with this myself."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "darnell",
+			"boxState": "normal",
+			"expression": "no",
+			"text": "In case you're blind, my fire was working, dumbass."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "confusion",
+			"text": "Do you really think you can last much longer though? Look at yourself."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "darnell",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've got this."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "go."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "darnell",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I won't just leave you here."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "rage",
+			"text": "I said. Go."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "darnell",
+			"boxState": "normal",
+			"expression": "no",
+			"text": "no."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "rage",
+			"text": "just"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "angry",
+			"expression": "rage cry",
+			"text": "GO!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "I won't lose you again."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "darnell",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": ". . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "darnell",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine, but I'm coming back if I see you falling to this bastard."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You won't need to."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "Boyfriend. If that's even you anymore."
+		},
+		{
+			"sound": "",
+			"speed": 0.105,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "When I'm done with you,"
+		},
+		{
+			"sound": "",
+			"speed": 0.105,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "burning in Hell will be the least of your worries."
+		},
+		{
+			"sound": "",
+			"speed": 0.14,
+			"portrait": "bfd2talk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfd2talk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Cool story bro."
+		}
+	]
+}

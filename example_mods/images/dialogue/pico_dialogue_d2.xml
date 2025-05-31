@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico_dialogue_d2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico bruh0000" x="18" y="18" width="366" height="481"/>
+	<SubTexture name="pico bruh0001" x="18" y="18" width="366" height="481"/>
+	<SubTexture name="pico confusion0000" x="416" y="18" width="365" height="481"/>
+	<SubTexture name="pico confusion0001" x="416" y="18" width="365" height="481"/>
+	<SubTexture name="pico rage0000" x="813" y="18" width="365" height="481"/>
+	<SubTexture name="pico rage0001" x="1210" y="18" width="365" height="481"/>
+	<SubTexture name="pico rage cry0000" x="1607" y="18" width="370" height="481"/>
+	<SubTexture name="pico rage cry0001" x="1607" y="18" width="370" height="481"/>
+	<SubTexture name="pico ready0000" x="18" y="531" width="358" height="491"/>
+	<SubTexture name="pico ready0001" x="18" y="531" width="358" height="491"/>
+	<SubTexture name="pico talk0000" x="408" y="531" width="359" height="486"/>
+	<SubTexture name="pico talk0001" x="408" y="531" width="359" height="486"/>
+</TextureAtlas>

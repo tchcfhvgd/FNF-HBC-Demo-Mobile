@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CHILD0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CHILD RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CHILD LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CHILD UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CHILD DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				4
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "CHILD DOWN-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				3
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "CHILD RIGHT-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "CHILD LEFT-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				44
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "CHILD UP-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				10
+			],
+			"anim": "literally sobbing",
+			"fps": 24,
+			"name": "CHILD cry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "CHILD-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/child",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "brantony_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		200,
+		255
+	],
+	"camera_position": [
+		200,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoppersHallucination2fix.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evilbobbers0000" x="18" y="18" width="1698" height="830" frameX="-2" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0001" x="18" y="18" width="1698" height="830" frameX="-2" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0002" x="1748" y="18" width="1694" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0003" x="1748" y="18" width="1694" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0004" x="18" y="880" width="1691" height="830" frameX="0" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0005" x="18" y="880" width="1691" height="830" frameX="0" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0006" x="1741" y="880" width="1693" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0007" x="1741" y="880" width="1693" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0008" x="18" y="1742" width="1695" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0009" x="18" y="1742" width="1695" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0010" x="1745" y="1742" width="1695" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0011" x="1745" y="1742" width="1695" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0012" x="1745" y="1742" width="1695" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0013" x="1745" y="1742" width="1695" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0014" x="1745" y="1742" width="1695" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+	<SubTexture name="evilbobbers0015" x="1745" y="1742" width="1695" height="830" frameX="-1" frameY="0" frameWidth="1700" frameHeight="830"/>
+</TextureAtlas>

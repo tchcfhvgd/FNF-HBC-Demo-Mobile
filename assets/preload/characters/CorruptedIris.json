@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				19
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "iris irl idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "iris irl left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "iris irl down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "iris irl up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				25
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "iris irl right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bonus/Unmanageable/Characters/CorruptedIris",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "CorruptIris",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

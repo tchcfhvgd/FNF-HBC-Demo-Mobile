@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funnyman.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="funnyman0000" x="18" y="18" width="576" height="672"/>
+	<SubTexture name="funnyman0001" x="18" y="18" width="576" height="672"/>
+	<SubTexture name="funnyman0002" x="626" y="18" width="576" height="672"/>
+	<SubTexture name="funnyman0003" x="626" y="18" width="576" height="672"/>
+	<SubTexture name="funnyman0004" x="1234" y="18" width="576" height="672"/>
+	<SubTexture name="funnyman0005" x="1234" y="18" width="576" height="672"/>
+	<SubTexture name="funnyman0006" x="18" y="722" width="576" height="672"/>
+	<SubTexture name="funnyman0007" x="18" y="722" width="576" height="672"/>
+	<SubTexture name="funnyman0008" x="626" y="722" width="576" height="672"/>
+	<SubTexture name="funnyman0009" x="626" y="722" width="576" height="672"/>
+	<SubTexture name="funnyman0010" x="626" y="722" width="576" height="672"/>
+	<SubTexture name="funnyman0011" x="626" y="722" width="576" height="672"/>
+	<SubTexture name="funnyman0012" x="626" y="722" width="576" height="672"/>
+	<SubTexture name="funnyman0013" x="626" y="722" width="576" height="672"/>
+</TextureAtlas>

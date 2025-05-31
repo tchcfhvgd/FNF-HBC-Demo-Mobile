@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="unogaming.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="uno0000" x="20" y="20" width="864" height="647" frameX="-7" frameY="-2" frameWidth="871" frameHeight="649"/>
+	<SubTexture name="uno0001" x="20" y="20" width="864" height="647" frameX="-7" frameY="-2" frameWidth="871" frameHeight="649"/>
+	<SubTexture name="uno0002" x="904" y="20" width="864" height="645" frameX="-4" frameY="-4" frameWidth="871" frameHeight="649"/>
+	<SubTexture name="uno0003" x="904" y="20" width="864" height="645" frameX="-4" frameY="-4" frameWidth="871" frameHeight="649"/>
+	<SubTexture name="uno0004" x="20" y="687" width="866" height="648" frameX="-1" frameY="-1" frameWidth="871" frameHeight="649"/>
+	<SubTexture name="uno0005" x="20" y="687" width="866" height="648" frameX="-1" frameY="-1" frameWidth="871" frameHeight="649"/>
+	<SubTexture name="uno0006" x="906" y="687" width="861" height="649" frameX="0" frameY="0" frameWidth="871" frameHeight="649"/>
+	<SubTexture name="uno0007" x="906" y="687" width="861" height="649" frameX="0" frameY="0" frameWidth="871" frameHeight="649"/>
+	<SubTexture name="uno0008" x="20" y="1356" width="860" height="648" frameX="0" frameY="-1" frameWidth="871" frameHeight="649"/>
+	<SubTexture name="uno0009" x="20" y="1356" width="860" height="648" frameX="0" frameY="-1" frameWidth="871" frameHeight="649"/>
+</TextureAtlas>

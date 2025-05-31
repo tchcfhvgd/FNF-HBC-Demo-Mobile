@@ -1,0 +1,6 @@
+The cinematic black bars used in the Nene week
+Value 1: Put '1' to enable them, 
+	Leave blank to disable
+
+Value 2: Speed of the bars appearing/unappearing
+	If blank, default speed of 7 seconds is used

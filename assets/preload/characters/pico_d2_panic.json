@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note"
+		},
+		{
+			"offsets": [
+				37,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note"
+		},
+		{
+			"offsets": [
+				-25,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico NOTE LEFT"
+		},
+		{
+			"offsets": [
+				111,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico Note Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "the fear",
+			"indices": [],
+			"name": "panic"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico_d2_panic",
+	"position": [
+		-50,
+		350
+	],
+	"healthicon": "picod2-3",
+	"flip_x": true,
+	"healthbar_colors": [
+		144,
+		59,
+		60
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,5 @@
+Plays a sound!! Woah!
+Value 1 = name of the sound
+(should be in mods/sounds)
+Value 2 = volume for sound to be played at
+max vol is 1 i think

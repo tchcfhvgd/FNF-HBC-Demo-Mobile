@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BarSlotMachineBopper.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Slot machine bopper idle0000" x="4739" y="1756" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper idle0001" x="4739" y="1756" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper idle0002" x="5273" y="1756" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper idle0003" x="5273" y="1756" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper idle0004" x="5790" y="1756" width="485" height="817" frameX="-17" frameY="-21" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper idle0005" x="5790" y="1756" width="485" height="817" frameX="-17" frameY="-21" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper idle0006" x="6307" y="1756" width="485" height="815" frameX="-17" frameY="-23" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper idle0007" x="6307" y="1756" width="485" height="815" frameX="-17" frameY="-23" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper idle0008" x="6824" y="1756" width="485" height="815" frameX="-17" frameY="-23" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper idle0009" x="6824" y="1756" width="485" height="815" frameX="-17" frameY="-23" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0000" x="18" y="18" width="502" height="836" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0001" x="552" y="18" width="502" height="836" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0002" x="1086" y="18" width="485" height="818" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0003" x="1603" y="18" width="485" height="818" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0004" x="2120" y="18" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0005" x="2654" y="18" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0006" x="3188" y="18" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0007" x="3705" y="18" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0008" x="4222" y="18" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0009" x="4756" y="18" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0010" x="5290" y="18" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0011" x="5807" y="18" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0012" x="6324" y="18" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0013" x="6858" y="18" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0014" x="7392" y="18" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0015" x="18" y="887" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0016" x="535" y="887" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0017" x="1069" y="887" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0018" x="1603" y="887" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0019" x="2120" y="887" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0020" x="2637" y="887" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0021" x="3171" y="887" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0022" x="3705" y="887" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0023" x="4222" y="887" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0024" x="4739" y="887" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0025" x="5273" y="887" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0026" x="5807" y="887" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0027" x="6324" y="887" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0028" x="6841" y="887" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0029" x="7375" y="887" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0030" x="5290" y="18" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0031" x="18" y="1756" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0032" x="535" y="1756" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0033" x="1069" y="1756" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0034" x="1603" y="1756" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0035" x="2120" y="1756" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0036" x="2637" y="1756" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0037" x="3171" y="1756" width="502" height="837" frameX="0" frameY="0" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0038" x="3705" y="1756" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+	<SubTexture name="Slot machine bopper spin0039" x="4222" y="1756" width="485" height="820" frameX="-17" frameY="-18" frameWidth="502" frameHeight="838"/>
+</TextureAtlas>

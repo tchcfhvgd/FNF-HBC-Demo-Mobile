@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Wendy Table.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tables and friends0000" x="18" y="18" width="2416" height="999" frameX="0" frameY="-5" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0001" x="18" y="18" width="2416" height="999" frameX="0" frameY="-5" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0002" x="2466" y="18" width="2416" height="1001" frameX="0" frameY="-3" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0003" x="2466" y="18" width="2416" height="1001" frameX="0" frameY="-3" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0004" x="2466" y="18" width="2416" height="1001" frameX="0" frameY="-3" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0005" x="2466" y="18" width="2416" height="1001" frameX="0" frameY="-3" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0006" x="4914" y="18" width="2416" height="1004"/>
+	<SubTexture name="tables and friends0007" x="4914" y="18" width="2416" height="1004"/>
+	<SubTexture name="tables and friends0008" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0009" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0010" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0011" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0012" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0013" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0014" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0015" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0016" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0017" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0018" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+	<SubTexture name="tables and friends0019" x="18" y="1054" width="2416" height="1003" frameX="0" frameY="-1" frameWidth="2416" frameHeight="1004"/>
+</TextureAtlas>

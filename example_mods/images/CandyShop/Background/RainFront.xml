@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RainFront.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rainFUCK YOU0000" x="18" y="18" width="2257" height="850" frameX="-6" frameY="-79" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0001" x="18" y="18" width="2257" height="850" frameX="-6" frameY="-79" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0002" x="2307" y="18" width="2257" height="946" frameX="-5" frameY="0" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0003" x="2307" y="18" width="2257" height="946" frameX="-5" frameY="0" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0004" x="4596" y="18" width="2251" height="961" frameX="-8" frameY="-7" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0005" x="4596" y="18" width="2251" height="961" frameX="-8" frameY="-7" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0006" x="18" y="1011" width="2248" height="909" frameX="-11" frameY="-14" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0007" x="18" y="1011" width="2248" height="909" frameX="-11" frameY="-14" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0008" x="2298" y="1011" width="2174" height="714" frameX="-10" frameY="-31" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0009" x="2298" y="1011" width="2174" height="714" frameX="-10" frameY="-31" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0010" x="4504" y="1011" width="2151" height="700" frameX="-32" frameY="-48" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0011" x="4504" y="1011" width="2151" height="700" frameX="-32" frameY="-48" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0012" x="18" y="1952" width="2153" height="699" frameX="-30" frameY="-66" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0013" x="18" y="1952" width="2153" height="699" frameX="-30" frameY="-66" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0014" x="2203" y="1952" width="2166" height="728" frameX="-31" frameY="-80" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0015" x="2203" y="1952" width="2166" height="728" frameX="-31" frameY="-80" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0016" x="4401" y="1952" width="2155" height="757" frameX="-42" frameY="-68" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0017" x="4401" y="1952" width="2155" height="757" frameX="-42" frameY="-68" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0018" x="18" y="2741" width="2152" height="777" frameX="-42" frameY="-70" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0019" x="18" y="2741" width="2152" height="777" frameX="-42" frameY="-70" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0020" x="2202" y="2741" width="2152" height="803" frameX="-40" frameY="-76" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0021" x="2202" y="2741" width="2152" height="803" frameX="-40" frameY="-76" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0022" x="4386" y="2741" width="2152" height="816" frameX="-41" frameY="-80" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0023" x="4386" y="2741" width="2152" height="816" frameX="-41" frameY="-80" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0024" x="18" y="3589" width="2263" height="832" frameX="-5" frameY="-87" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0025" x="18" y="3589" width="2263" height="832" frameX="-5" frameY="-87" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0026" x="2313" y="3589" width="2267" height="813" frameX="0" frameY="-93" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0027" x="2313" y="3589" width="2267" height="813" frameX="0" frameY="-93" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0028" x="4612" y="3589" width="2264" height="862" frameX="-1" frameY="-66" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0029" x="4612" y="3589" width="2264" height="862" frameX="-1" frameY="-66" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0030" x="18" y="4483" width="2259" height="811" frameX="-4" frameY="-72" frameWidth="2268" frameHeight="968"/>
+	<SubTexture name="rainFUCK YOU0031" x="18" y="4483" width="2259" height="811" frameX="-4" frameY="-72" frameWidth="2268" frameHeight="968"/>
+</TextureAtlas>

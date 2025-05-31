@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		90,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pico bruh",
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pico confusion",
+			"anim": "confusion",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pico rage0000",
+			"anim": "rage",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pico rage cry",
+			"anim": "rage cry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pico talk",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pico ready",
+			"anim": "ready",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "pico_dialogue_d2"
+}

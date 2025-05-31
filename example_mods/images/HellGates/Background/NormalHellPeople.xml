@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NormalHellPeople.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NormalBop0000" x="18" y="18" width="1799" height="360" frameX="0" frameY="-2" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0001" x="18" y="18" width="1799" height="360" frameX="0" frameY="-2" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0002" x="18" y="410" width="1799" height="361" frameX="-3" frameY="-2" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0003" x="18" y="410" width="1799" height="361" frameX="-3" frameY="-2" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0004" x="18" y="803" width="1810" height="364" frameX="-7" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0005" x="18" y="803" width="1810" height="364" frameX="-7" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0006" x="18" y="1199" width="1813" height="362" frameX="-2" frameY="-1" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0007" x="18" y="1199" width="1813" height="362" frameX="-2" frameY="-1" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0008" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0009" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0010" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0011" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0012" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0013" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0014" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0015" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0016" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0017" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0018" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+	<SubTexture name="NormalBop0019" x="18" y="1593" width="1810" height="363" frameX="-2" frameY="0" frameWidth="1817" frameHeight="364"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Lemon idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				190,
+				111
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Lemon up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				250,
+				20
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Lemon Left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				-20
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Lemon Right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				260,
+				11
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Lemon down Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "HellGates/Characters/LEMONE2",
+	"position": [
+		0,
+		-130
+	],
+	"healthicon": "HellLemon",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

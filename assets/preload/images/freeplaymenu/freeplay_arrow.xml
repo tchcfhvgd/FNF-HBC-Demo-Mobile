@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freeplay_arrow.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow0000" x="18" y="18" width="143" height="127"/>
+	<SubTexture name="arrow0001" x="18" y="18" width="143" height="127"/>
+	<SubTexture name="arrow0002" x="193" y="18" width="143" height="127"/>
+	<SubTexture name="arrow0003" x="193" y="18" width="143" height="127"/>
+	<SubTexture name="arrow0004" x="18" y="177" width="143" height="125" frameX="0" frameY="-2" frameWidth="143" frameHeight="127"/>
+	<SubTexture name="arrow0005" x="18" y="177" width="143" height="125" frameX="0" frameY="-2" frameWidth="143" frameHeight="127"/>
+</TextureAtlas>

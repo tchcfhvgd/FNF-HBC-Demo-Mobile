@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GateLights.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flick0000" x="18" y="18" width="1205" height="699" frameX="0" frameY="-7" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0001" x="18" y="18" width="1205" height="699" frameX="0" frameY="-7" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0002" x="1255" y="18" width="1206" height="693" frameX="0" frameY="-13" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0003" x="1255" y="18" width="1206" height="693" frameX="0" frameY="-13" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0004" x="2493" y="18" width="1207" height="705" frameX="-4" frameY="0" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0005" x="2493" y="18" width="1207" height="705" frameX="-4" frameY="0" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0006" x="18" y="755" width="1207" height="661" frameX="-9" frameY="-44" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0007" x="18" y="755" width="1207" height="661" frameX="-9" frameY="-44" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0008" x="1257" y="755" width="1207" height="659" frameX="-10" frameY="-46" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0009" x="1257" y="755" width="1207" height="659" frameX="-10" frameY="-46" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0010" x="2496" y="755" width="1206" height="698" frameX="-11" frameY="-7" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0011" x="2496" y="755" width="1206" height="698" frameX="-11" frameY="-7" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0012" x="18" y="1485" width="1207" height="692" frameX="-10" frameY="-13" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0013" x="18" y="1485" width="1207" height="692" frameX="-10" frameY="-13" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0014" x="1257" y="1485" width="1207" height="705" frameX="-9" frameY="0" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0015" x="1257" y="1485" width="1207" height="705" frameX="-9" frameY="0" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0016" x="2496" y="1485" width="1207" height="661" frameX="-4" frameY="-44" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0017" x="2496" y="1485" width="1207" height="661" frameX="-4" frameY="-44" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0018" x="18" y="2222" width="1206" height="660" frameX="0" frameY="-46" frameWidth="1217" frameHeight="706"/>
+	<SubTexture name="Flick0019" x="18" y="2222" width="1206" height="660" frameX="0" frameY="-46" frameWidth="1217" frameHeight="706"/>
+</TextureAtlas>

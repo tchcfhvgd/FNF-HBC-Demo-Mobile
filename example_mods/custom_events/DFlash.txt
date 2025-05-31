@@ -1,0 +1,3 @@
+um uh custom flash for devotion end
+Value 1: COLOR of the fade in hex
+Value 2: DURATION of the fade

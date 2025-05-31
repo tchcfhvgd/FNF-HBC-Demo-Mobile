@@ -1,0 +1,35 @@
+{
+	"storyName": "REVISIONS",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Prologue",
+	"weekBefore": "Nene",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Angels Grace V5",
+			"PICO_-_D3_-_2",
+			[
+				247,
+				210,
+				69
+			]
+		],
+		[
+			"Dragged Down To Hell V1",
+			"monster",
+			[
+				100,
+				1,
+				3
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Revisions"
+}

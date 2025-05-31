@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Moloch Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Moloch Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Moloch right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Moloch down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Moloch up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Moloch",
+	"position": [
+		-10,
+		115
+	],
+	"healthicon": "Moloch",
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		31,
+		66
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-4
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-85
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				17
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				185
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-90
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "theorycave/Characters/mat_1",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "Mack_Icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		92,
+		29
+	],
+	"camera_position": [
+		0,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

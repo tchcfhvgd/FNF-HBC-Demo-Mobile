@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				58
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				64
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				52
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle dance0"
+		},
+		{
+			"offsets": [
+				-110,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "BF NOTE LEFT-alt"
+		},
+		{
+			"offsets": [
+				4,
+				52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "BF NOTE RIGHT-alt"
+		},
+		{
+			"offsets": [
+				-50,
+				36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "BF NOTE DOWN-alt"
+		},
+		{
+			"offsets": [
+				-20,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "BF NOTE UP-alt"
+		},
+		{
+			"offsets": [
+				7,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "BF idle dance-alt"
+		},
+		{
+			"offsets": [
+				40,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt-alt",
+			"loop": false,
+			"name": "BF idle dance-fuckyoulilshits"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/BF/D4/BFStage3",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "CBFAngel",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

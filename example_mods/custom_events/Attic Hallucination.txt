@@ -1,0 +1,5 @@
+Attic stage transition for
+Amomos & Atonement
+Value 1: Put '1' to switch to attic
+'2' for atonement fade-away
+'3' to switch back to candyshop

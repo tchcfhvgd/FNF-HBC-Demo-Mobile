@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				101,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "skid down"
+		},
+		{
+			"offsets": [
+				97,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "skid up"
+		},
+		{
+			"offsets": [
+				92,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "skid left"
+		},
+		{
+			"offsets": [
+				80,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "skid right"
+		},
+		{
+			"offsets": [
+				93,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "skid idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Skid/D4/SkidStage5",
+	"position": [
+		550,
+		390
+	],
+	"healthicon": "SPD4-2",
+	"flip_x": true,
+	"healthbar_colors": [
+		1,
+		1,
+		1
+	],
+	"camera_position": [
+		220,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

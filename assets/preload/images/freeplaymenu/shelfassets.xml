@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shelfassets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shelf0000" x="18" y="18" width="1087" height="219"/>
+	<SubTexture name="shelf bottom0000" x="18" y="269" width="1087" height="236"/>
+	<SubTexture name="shelf top0000" x="18" y="537" width="1087" height="228"/>
+</TextureAtlas>

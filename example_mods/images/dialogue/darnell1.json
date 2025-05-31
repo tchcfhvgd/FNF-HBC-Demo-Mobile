@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		110,
+		-10
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "darnell bro chill",
+			"anim": "bro chill",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "darnell_dialogue_d2"
+}

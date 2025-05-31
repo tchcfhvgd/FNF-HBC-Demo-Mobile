@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LEMONE.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lemon Left note0000" x="18" y="18" width="773" height="1061" frameX="-22" frameY="-14" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0001" x="18" y="18" width="773" height="1061" frameX="-22" frameY="-14" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0002" x="809" y="18" width="793" height="1075" frameX="0" frameY="0" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0003" x="809" y="18" width="793" height="1075" frameX="0" frameY="0" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0004" x="1620" y="18" width="771" height="1060" frameX="-22" frameY="-15" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0005" x="2409" y="18" width="771" height="1060" frameX="-22" frameY="-15" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0006" x="3198" y="18" width="755" height="1045" frameX="-39" frameY="-30" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0007" x="3198" y="18" width="755" height="1045" frameX="-39" frameY="-30" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0008" x="3971" y="18" width="757" height="1048" frameX="-37" frameY="-27" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0009" x="3971" y="18" width="757" height="1048" frameX="-37" frameY="-27" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0010" x="4746" y="18" width="755" height="1048" frameX="-39" frameY="-27" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0011" x="4746" y="18" width="755" height="1048" frameX="-39" frameY="-27" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0012" x="4746" y="18" width="755" height="1048" frameX="-39" frameY="-27" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0013" x="5519" y="18" width="643" height="1039" frameX="-151" frameY="-36" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Left note0014" x="5519" y="18" width="643" height="1039" frameX="-151" frameY="-36" frameWidth="795" frameHeight="1075"/>
+	<SubTexture name="Lemon Right note0000" x="6180" y="18" width="677" height="989" frameX="-167" frameY="-51" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0001" x="6875" y="18" width="677" height="989" frameX="-167" frameY="-51" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0002" x="18" y="1111" width="721" height="1002" frameX="-176" frameY="-38" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0003" x="18" y="1111" width="721" height="1002" frameX="-176" frameY="-38" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0004" x="757" y="1111" width="684" height="1014" frameX="-169" frameY="-26" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0005" x="1459" y="1111" width="684" height="1014" frameX="-169" frameY="-26" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0006" x="2161" y="1111" width="669" height="1021" frameX="-168" frameY="-19" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0007" x="2848" y="1111" width="669" height="1021" frameX="-168" frameY="-19" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0008" x="3535" y="1111" width="664" height="1020" frameX="-168" frameY="-20" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0009" x="3535" y="1111" width="664" height="1020" frameX="-168" frameY="-20" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0010" x="3535" y="1111" width="664" height="1020" frameX="-168" frameY="-20" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0011" x="4217" y="1111" width="636" height="1040" frameX="-47" frameY="0" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0012" x="4217" y="1111" width="636" height="1040" frameX="-47" frameY="0" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0013" x="4871" y="1111" width="615" height="1033" frameX="0" frameY="-7" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon Right note0014" x="4871" y="1111" width="615" height="1033" frameX="0" frameY="-7" frameWidth="897" frameHeight="1040"/>
+	<SubTexture name="Lemon down Note0000" x="5504" y="1111" width="1026" height="805" frameX="-1" frameY="-64" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0001" x="5504" y="1111" width="1026" height="805" frameX="-1" frameY="-64" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0002" x="6548" y="1111" width="1040" height="784" frameX="-43" frameY="-83" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0003" x="6548" y="1111" width="1040" height="784" frameX="-43" frameY="-83" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0004" x="18" y="2169" width="1025" height="816" frameX="-50" frameY="-54" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0005" x="1061" y="2169" width="1025" height="816" frameX="-50" frameY="-54" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0006" x="2104" y="2169" width="1031" height="822" frameX="-10" frameY="-48" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0007" x="2104" y="2169" width="1031" height="822" frameX="-10" frameY="-48" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0008" x="3153" y="2169" width="1041" height="832" frameX="0" frameY="-38" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0009" x="3153" y="2169" width="1041" height="832" frameX="0" frameY="-38" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0010" x="3153" y="2169" width="1041" height="832" frameX="0" frameY="-38" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0011" x="3153" y="2169" width="1041" height="832" frameX="0" frameY="-38" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0012" x="3153" y="2169" width="1041" height="832" frameX="0" frameY="-38" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0013" x="4212" y="2169" width="759" height="871" frameX="-154" frameY="0" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon down Note0014" x="4212" y="2169" width="759" height="871" frameX="-154" frameY="0" frameWidth="1083" frameHeight="871"/>
+	<SubTexture name="Lemon idle0000" x="4989" y="2169" width="605" height="1050" frameX="0" frameY="-6" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0001" x="4989" y="2169" width="605" height="1050" frameX="0" frameY="-6" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0002" x="5612" y="2169" width="601" height="1057" frameX="-4" frameY="0" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0003" x="5612" y="2169" width="601" height="1057" frameX="-4" frameY="0" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0004" x="6231" y="2169" width="580" height="1052" frameX="-25" frameY="-5" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0005" x="6231" y="2169" width="580" height="1052" frameX="-25" frameY="-5" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0006" x="6829" y="2169" width="579" height="1049" frameX="-26" frameY="-8" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0007" x="6829" y="2169" width="579" height="1049" frameX="-26" frameY="-8" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0008" x="7426" y="2169" width="580" height="1050" frameX="-25" frameY="-7" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0009" x="7426" y="2169" width="580" height="1050" frameX="-25" frameY="-7" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0010" x="7426" y="2169" width="580" height="1050" frameX="-25" frameY="-7" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0011" x="7426" y="2169" width="580" height="1050" frameX="-25" frameY="-7" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0012" x="7426" y="2169" width="580" height="1050" frameX="-25" frameY="-7" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0013" x="7426" y="2169" width="580" height="1050" frameX="-25" frameY="-7" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon idle0014" x="7426" y="2169" width="580" height="1050" frameX="-25" frameY="-7" frameWidth="605" frameHeight="1057"/>
+	<SubTexture name="Lemon up note0000" x="18" y="3244" width="837" height="1093" frameX="-48" frameY="-18" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0001" x="18" y="3244" width="837" height="1093" frameX="-48" frameY="-18" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0002" x="873" y="3244" width="863" height="1111" frameX="-63" frameY="0" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0003" x="873" y="3244" width="863" height="1111" frameX="-63" frameY="0" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0004" x="1754" y="3244" width="924" height="1051" frameX="-30" frameY="-60" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0005" x="2696" y="3244" width="924" height="1051" frameX="-30" frameY="-60" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0006" x="3638" y="3244" width="906" height="1031" frameX="-13" frameY="-80" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0007" x="3638" y="3244" width="906" height="1031" frameX="-13" frameY="-80" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0008" x="4562" y="3244" width="904" height="1035" frameX="0" frameY="-76" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0009" x="4562" y="3244" width="904" height="1035" frameX="0" frameY="-76" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0010" x="5484" y="3244" width="905" height="1033" frameX="-1" frameY="-78" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0011" x="5484" y="3244" width="905" height="1033" frameX="-1" frameY="-78" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0012" x="5484" y="3244" width="905" height="1033" frameX="-1" frameY="-78" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0013" x="6407" y="3244" width="772" height="991" frameX="-71" frameY="-119" frameWidth="954" frameHeight="1111"/>
+	<SubTexture name="Lemon up note0014" x="6407" y="3244" width="772" height="991" frameX="-71" frameY="-119" frameWidth="954" frameHeight="1111"/>
+</TextureAtlas>

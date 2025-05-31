@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleEnter.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="ENTER PRESSED0000" x="0" y="100" width="950" height="91" frameX="-4" frameY="-7" frameWidth="979" frameHeight="96"/>
+	<SubTexture name="Press Enter to Begin0000" x="0" y="191" width="948" height="89" frameX="-5" frameY="-8" frameWidth="979" frameHeight="96"/>
+	<SubTexture name="ENTER PRESSED0001" x="0" y="0" width="975" height="100" frameX="2" frameY="2" frameWidth="979" frameHeight="96"/>
+</TextureAtlas>

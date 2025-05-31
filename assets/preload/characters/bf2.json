@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				24
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-19
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				27
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				21
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				-12,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT instance"
+		},
+		{
+			"offsets": [
+				-14,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN instance"
+		},
+		{
+			"offsets": [
+				-36,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP instance"
+		},
+		{
+			"offsets": [
+				-46,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "senorlemon/chars/bf2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "beefman3",
+	"flip_x": true,
+	"healthbar_colors": [
+		50,
+		26,
+		26
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

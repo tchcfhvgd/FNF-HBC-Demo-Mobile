@@ -1,0 +1,4 @@
+Fades the camera! (duh)
+Value 1: COLOR of the fade in hex
+Value 2: DURATION of the fade
+this lasts for the rest of the song btw

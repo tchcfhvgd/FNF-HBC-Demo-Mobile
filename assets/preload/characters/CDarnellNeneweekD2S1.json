@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chuddin idle0"
+		},
+		{
+			"offsets": [
+				2,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chuddin left0"
+		},
+		{
+			"offsets": [
+				12,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chuddin down0"
+		},
+		{
+			"offsets": [
+				-8,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chuddin up0"
+		},
+		{
+			"offsets": [
+				6,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chuddin right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bar/Characters/CDarnell/D2/chuddin_d2_stage1",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "chuddinicon1",
+	"flip_x": true,
+	"healthbar_colors": [
+		83,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

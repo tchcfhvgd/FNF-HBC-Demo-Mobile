@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				-8
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Step",
+			"loop": false,
+			"name": "walk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Skid/D1/SkidHallucinate",
+	"position": [
+		130,
+		300
+	],
+	"healthicon": "bf_1",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

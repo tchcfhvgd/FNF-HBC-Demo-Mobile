@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LOCKED0000" x="18" y="18" width="193" height="95"/>
+	<SubTexture name="LOCKED0001" x="18" y="18" width="193" height="95"/>
+	<SubTexture name="arrow up0000" x="243" y="18" width="138" height="61"/>
+	<SubTexture name="arrow up0001" x="243" y="18" width="138" height="61"/>
+	<SubTexture name="arrow up select0000" x="18" y="145" width="176" height="86"/>
+	<SubTexture name="arrow up select0001" x="18" y="145" width="176" height="86"/>
+	<SubTexture name="arrowdown0000" x="226" y="145" width="138" height="61"/>
+	<SubTexture name="arrowdown0001" x="226" y="145" width="138" height="61"/>
+	<SubTexture name="arrowdown select0000" x="18" y="263" width="177" height="85"/>
+	<SubTexture name="arrowdown select0001" x="18" y="263" width="177" height="85"/>
+</TextureAtlas>

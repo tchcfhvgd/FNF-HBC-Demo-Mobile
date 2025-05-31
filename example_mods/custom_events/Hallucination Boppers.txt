@@ -1,0 +1,3 @@
+Value 1: Put 1 for the alive boppers
+Put 2 for the dead boppers
+Put 3 to remove both boppers

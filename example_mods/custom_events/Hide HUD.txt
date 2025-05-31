@@ -1,0 +1,5 @@
+Value1: put 0 to hide HUD
+put 1 to show HUD instead
+
+Value2: Amount of seconds it
+takes to hide/show hud

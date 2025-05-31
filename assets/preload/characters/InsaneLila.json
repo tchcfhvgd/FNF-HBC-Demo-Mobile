@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-21
+			],
+			"anim": "Talk",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/InsaneLila",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "LilaInsane",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		53,
+		122
+	],
+	"camera_position": [
+		200,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

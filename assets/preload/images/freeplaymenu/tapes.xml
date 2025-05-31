@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tapes.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="devtape0000" x="20" y="20" width="921" height="137"/>
+	<SubTexture name="lilatape0000" x="20" y="177" width="921" height="137"/>
+	<SubTexture name="mmtape0000" x="20" y="334" width="921" height="138"/>
+	<SubTexture name="nenetape0000" x="20" y="492" width="921" height="138"/>
+	<SubTexture name="picotape0000" x="20" y="650" width="921" height="138"/>
+	<SubTexture name="prologuetape0000" x="20" y="808" width="922" height="138"/>
+	<SubTexture name="revisiontape0000" x="20" y="966" width="921" height="138"/>
+	<SubTexture name="spookytape0000" x="20" y="1124" width="921" height="138"/>
+</TextureAtlas>

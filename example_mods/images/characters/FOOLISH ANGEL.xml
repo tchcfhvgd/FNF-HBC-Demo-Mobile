@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FOOLISH ANGEL.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Warranty Left note0000" x="18" y="18" width="337" height="764" frameX="0" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0001" x="18" y="18" width="337" height="764" frameX="0" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0002" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0003" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0004" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0005" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0006" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0007" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0008" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0009" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0010" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0011" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0012" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0013" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Left note0014" x="387" y="18" width="321" height="764" frameX="-17" frameY="0" frameWidth="338" frameHeight="764"/>
+	<SubTexture name="Warranty Right note0000" x="740" y="18" width="557" height="714" frameX="0" frameY="-12" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0001" x="740" y="18" width="557" height="714" frameX="0" frameY="-12" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0002" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0003" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0004" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0005" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0006" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0007" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0008" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0009" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0010" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0011" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0012" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0013" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0014" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0015" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0016" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0017" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0018" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty Right note0019" x="1329" y="18" width="539" height="726" frameX="0" frameY="0" frameWidth="557" frameHeight="726"/>
+	<SubTexture name="Warranty down0000" x="1900" y="18" width="585" height="669" frameX="0" frameY="-26" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0001" x="1900" y="18" width="585" height="669" frameX="0" frameY="-26" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0002" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0003" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0004" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0005" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0006" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0007" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0008" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0009" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0010" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0011" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0012" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0013" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0014" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0015" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0016" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0017" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0018" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty down0019" x="2517" y="18" width="587" height="695" frameX="-2" frameY="0" frameWidth="589" frameHeight="695"/>
+	<SubTexture name="Warranty idle0000" x="3136" y="18" width="299" height="770" frameX="0" frameY="-3" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0001" x="3467" y="18" width="300" height="771" frameX="0" frameY="-2" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0002" x="18" y="821" width="299" height="771" frameX="-1" frameY="-2" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0003" x="349" y="821" width="299" height="771" frameX="-1" frameY="-2" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0004" x="680" y="821" width="298" height="772" frameX="-2" frameY="-1" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0005" x="1010" y="821" width="297" height="772" frameX="-3" frameY="-1" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0006" x="1339" y="821" width="297" height="773" frameX="-3" frameY="0" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0007" x="1668" y="821" width="296" height="773" frameX="-4" frameY="0" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0008" x="1996" y="821" width="295" height="773" frameX="-5" frameY="0" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0009" x="1996" y="821" width="295" height="773" frameX="-5" frameY="0" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0010" x="1996" y="821" width="295" height="773" frameX="-5" frameY="0" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0011" x="1996" y="821" width="295" height="773" frameX="-5" frameY="0" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0012" x="1996" y="821" width="295" height="773" frameX="-5" frameY="0" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty idle0013" x="1996" y="821" width="295" height="773" frameX="-5" frameY="0" frameWidth="300" frameHeight="773"/>
+	<SubTexture name="Warranty up note0000" x="2323" y="821" width="509" height="780" frameX="-15" frameY="0" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0001" x="2323" y="821" width="509" height="780" frameX="-15" frameY="0" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0002" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0003" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0004" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0005" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0006" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0007" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0008" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0009" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0010" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0011" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0012" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0013" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0014" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0015" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0016" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0017" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0018" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0019" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0020" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0021" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0022" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+	<SubTexture name="Warranty up note0023" x="2864" y="821" width="536" height="776" frameX="0" frameY="-4" frameWidth="536" frameHeight="780"/>
+</TextureAtlas>

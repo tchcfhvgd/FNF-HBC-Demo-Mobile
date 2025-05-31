@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CandyShopNight.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wallIDLE0000" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0000" x="18" y="18" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0001" x="18" y="18" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0002" x="3015" y="18" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0003" x="3015" y="18" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0004" x="18" y="18" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0005" x="18" y="18" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0006" x="18" y="1481" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0007" x="18" y="1481" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0008" x="3015" y="1481" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0009" x="3015" y="1481" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0010" x="18" y="2944" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0011" x="18" y="2944" width="2965" height="1431"/>
+	<SubTexture name="wallFUCKYOU0012" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0013" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0014" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0015" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0016" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0017" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0018" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0019" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0020" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0021" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0022" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0023" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0024" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0025" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0026" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0027" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0028" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0029" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0030" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+	<SubTexture name="wallFUCKYOU0031" x="3015" y="2944" width="2946" height="1377" frameX="0" frameY="0" frameWidth="2965" frameHeight="1431"/>
+</TextureAtlas>

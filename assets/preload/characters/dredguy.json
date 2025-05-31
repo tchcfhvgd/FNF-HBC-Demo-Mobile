@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				50
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-30
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "theorycave/Characters/dredguy",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "dred_guy_icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		236,
+		28,
+		36
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2.25
+}

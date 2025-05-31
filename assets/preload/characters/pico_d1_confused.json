@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-66
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				16,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shrug",
+			"indices": [],
+			"name": "Pico shrug0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico_d1_confused",
+	"position": [
+		-150,
+		350
+	],
+	"healthicon": "pico_darnell_d1",
+	"flip_x": true,
+	"healthbar_colors": [
+		144,
+		59,
+		60
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

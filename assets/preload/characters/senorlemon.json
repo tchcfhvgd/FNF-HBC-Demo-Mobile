@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "monster idle"
+		},
+		{
+			"offsets": [
+				195,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "monster up note"
+		},
+		{
+			"offsets": [
+				-28,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "monster down"
+		},
+		{
+			"offsets": [
+				-28,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Monster Right note"
+		},
+		{
+			"offsets": [
+				66,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Monster Left note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "senorlemon/chars/lemon",
+	"position": [
+		20,
+		-50
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		0,
+		82
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

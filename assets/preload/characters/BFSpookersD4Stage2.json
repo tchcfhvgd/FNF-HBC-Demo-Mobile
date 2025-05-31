@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				11
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/BF/D4/BFD4Stage2",
+	"position": [
+		-100,
+		330
+	],
+	"healthicon": "CBFAngel",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		170,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

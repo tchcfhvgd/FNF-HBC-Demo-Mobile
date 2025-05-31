@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CandyShopHallucinationBack2fix.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backevil0000" x="18" y="18" width="2187" height="1096"/>
+	<SubTexture name="backevil0001" x="18" y="18" width="2187" height="1096"/>
+	<SubTexture name="backevil0002" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0003" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0004" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0005" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0006" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0007" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0008" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0009" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0010" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0011" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0012" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0013" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0014" x="18" y="1146" width="2187" height="1096"/>
+	<SubTexture name="backevil0015" x="18" y="1146" width="2187" height="1096"/>
+</TextureAtlas>

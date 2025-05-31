@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				11
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-127,
+				-19
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BF NOTE DOWN-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				41
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "BF NOTE UP-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				19
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BF NOTE LEFT-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "BF NOTE RIGHT-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				8
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "BF idle dance-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				11
+			],
+			"anim": "idle-alt2",
+			"fps": 24,
+			"name": "BF idle dance-fuckyoulilshits",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				10
+			],
+			"anim": "Grrr",
+			"fps": 24,
+			"name": "break mic irl",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/BF/D4/BFD4Stage3",
+	"position": [
+		-100,
+		330
+	],
+	"healthicon": "CBFAngel",
+	"flip_x": true,
+	"healthbar_colors": [
+		2,
+		2,
+		2
+	],
+	"camera_position": [
+		170,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

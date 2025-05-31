@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				51,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				57,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				76,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				43,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				57,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "true"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Skid/D2/SkidD2Stage2",
+	"position": [
+		364,
+		150
+	],
+	"healthicon": "SPD2S3",
+	"flip_x": false,
+	"healthbar_colors": [
+		159,
+		138,
+		50
+	],
+	"camera_position": [
+		-300,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

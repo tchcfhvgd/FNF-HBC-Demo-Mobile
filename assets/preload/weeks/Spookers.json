@@ -1,0 +1,53 @@
+{
+	"storyName": "Shattered Innocence",
+	"difficulties": "Hard, Normal",
+	"hideFreeplay": false,
+	"weekBackground": "Spookers",
+	"weekBefore": "Pico",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Amomos",
+			"SkidD1S1",
+			[
+				25,
+				25,
+				25
+			]
+		],
+		[
+			"Atonement",
+			"icon-SPD2S3",
+			[
+				78,
+				43,
+				6
+			]
+		],
+		[
+			"Devotion",
+			"icon-SpookersD3",
+			[
+				238,
+				153,
+				71
+			]
+		],
+		[
+			"Second Coming",
+			"icon-SPD4",
+			[
+				18,
+				24,
+				70
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Shattered Innocence"
+}

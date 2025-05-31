@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BEEF0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "BEEF up-alt"
+		},
+		{
+			"offsets": [
+				9,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BEEF up0"
+		},
+		{
+			"offsets": [
+				-4,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BEEF up miss"
+		},
+		{
+			"offsets": [
+				9,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BEEF down0"
+		},
+		{
+			"offsets": [
+				9,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "BEEF down-alt"
+		},
+		{
+			"offsets": [
+				7,
+				-49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BEEF down miss"
+		},
+		{
+			"offsets": [
+				9,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BEEF right0"
+		},
+		{
+			"offsets": [
+				9,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "BEEF right-alt"
+		},
+		{
+			"offsets": [
+				-5,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BEEF right miss"
+		},
+		{
+			"offsets": [
+				152,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BEEF left miss"
+		},
+		{
+			"offsets": [
+				156,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BEEF left0"
+		},
+		{
+			"offsets": [
+				156,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "BEEF left-alt"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "BEEF-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/underage_USER",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-BEEF_1_1",
+	"flip_x": true,
+	"healthbar_colors": [
+		29,
+		0,
+		0
+	],
+	"camera_position": [
+		300,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

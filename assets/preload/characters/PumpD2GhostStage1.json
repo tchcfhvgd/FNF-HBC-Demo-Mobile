@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				63
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				78
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				74
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				62
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Pump/D2/PumpGhostStage1",
+	"position": [
+		20,
+		280
+	],
+	"healthicon": "SPGhostS1",
+	"flip_x": true,
+	"healthbar_colors": [
+		202,
+		239,
+		235
+	],
+	"camera_position": [
+		350,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

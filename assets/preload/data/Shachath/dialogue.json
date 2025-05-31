@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "cbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "h e h ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This isn't a joke. What is this stuff."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Whatever the hell it is, it's not a damn demon disguise."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . . . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "angry",
+			"expression": "rage",
+			"text": "ANSWER ME DAMN IT."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "darnell1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bro. Chill tf out. I'll just roast him and we can head home."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Screw it. I don't have any better ideas‎-right now, and I'm not about to have a big fight in the middle of a damn basketball court."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So round two then."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picod2",
+			"boxState": "normal",
+			"expression": "confusion",
+			"text": "Screw you."
+		}
+	]
+}

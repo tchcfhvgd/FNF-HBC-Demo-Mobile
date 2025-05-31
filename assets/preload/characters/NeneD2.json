@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				153,
+				-14
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				-49
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				108
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				-102
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bar/Characters/Nene/D2/nene_d2",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "Nene_D2_1",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		128,
+		201
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

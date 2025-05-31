@@ -1,0 +1,3 @@
+does the lil thingy with the lights for chud week
+Value 1: put 1 for yes lights
+leave blank to kill lights

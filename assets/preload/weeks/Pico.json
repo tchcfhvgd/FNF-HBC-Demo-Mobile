@@ -1,0 +1,44 @@
+{
+	"storyName": "King of the Court",
+	"difficulties": "Hard, Normal",
+	"hideFreeplay": false,
+	"weekBackground": "Pico",
+	"weekBefore": "Prologue",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sacrilege",
+			"pico_darnell_d1",
+			[
+				119,
+				40,
+				35
+			]
+		],
+		[
+			"Shachath",
+			"picod2-1",
+			[
+				207,
+				72,
+				22
+			]
+		],
+		[
+			"Angels Grace",
+			"PICO_-_D3_-_2",
+			[
+				249,
+				248,
+				68
+			]
+		]
+	],
+	"weekName": "King of the Court"
+}

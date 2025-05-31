@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bounces.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bouncing0000" x="18" y="18" width="1948" height="639"/>
+	<SubTexture name="bouncing0001" x="18" y="18" width="1948" height="639"/>
+	<SubTexture name="bouncing0002" x="1998" y="18" width="1948" height="639"/>
+	<SubTexture name="bouncing0003" x="1998" y="18" width="1948" height="639"/>
+	<SubTexture name="bouncing0004" x="18" y="689" width="1948" height="639"/>
+	<SubTexture name="bouncing0005" x="18" y="689" width="1948" height="639"/>
+	<SubTexture name="bouncing0006" x="1998" y="689" width="1948" height="639"/>
+	<SubTexture name="bouncing0007" x="1998" y="689" width="1948" height="639"/>
+	<SubTexture name="bouncing0008" x="18" y="689" width="1948" height="639"/>
+	<SubTexture name="bouncing0009" x="18" y="689" width="1948" height="639"/>
+	<SubTexture name="bouncing0010" x="18" y="689" width="1948" height="639"/>
+	<SubTexture name="bouncing0011" x="18" y="689" width="1948" height="639"/>
+	<SubTexture name="bouncing0012" x="18" y="689" width="1948" height="639"/>
+	<SubTexture name="bouncing0013" x="18" y="689" width="1948" height="639"/>
+</TextureAtlas>

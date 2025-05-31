@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				273,
+				286
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 14,
+			"name": "lemon idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				320,
+				310
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lemon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				289,
+				300
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lemon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				279,
+				300
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lemon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				304
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lemon up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				280,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "woope",
+			"indices": [],
+			"name": "lemon woope"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "HellGates/Characters/budgetLemonLMAO",
+	"position": [
+		-15,
+		-300
+	],
+	"healthicon": "HellLemon",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		0,
+		0
+	],
+	"camera_position": [
+		-157.6,
+		-45.5
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

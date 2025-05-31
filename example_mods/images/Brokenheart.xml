@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Brokenheart.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="heartbeat 40000" x="18" y="18" width="99" height="120" frameX="-5" frameY="0" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40001" x="18" y="18" width="99" height="120" frameX="-5" frameY="0" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40002" x="149" y="18" width="101" height="115" frameX="-4" frameY="-2" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40003" x="149" y="18" width="101" height="115" frameX="-4" frameY="-2" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40004" x="282" y="18" width="109" height="111" frameX="0" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40005" x="282" y="18" width="109" height="111" frameX="0" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40006" x="18" y="170" width="105" height="112" frameX="-2" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40007" x="18" y="170" width="105" height="112" frameX="-2" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40008" x="18" y="170" width="105" height="112" frameX="-2" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40009" x="18" y="170" width="105" height="112" frameX="-2" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40010" x="18" y="170" width="105" height="112" frameX="-2" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40011" x="18" y="170" width="105" height="112" frameX="-2" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40012" x="18" y="170" width="105" height="112" frameX="-2" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40013" x="18" y="170" width="105" height="112" frameX="-2" frameY="-3" frameWidth="109" frameHeight="120"/>
+	<SubTexture name="heartbeat 40014" x="18" y="170" width="105" height="112" frameX="-2" frameY="-3" frameWidth="109" frameHeight="120"/>
+</TextureAtlas>

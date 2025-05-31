@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CandyShopLights.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="upperlightfull0000" x="18" y="18" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0001" x="18" y="18" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0002" x="18" y="364" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0003" x="18" y="364" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0004" x="18" y="710" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0005" x="18" y="710" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0006" x="18" y="1056" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0007" x="18" y="1056" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0008" x="18" y="1056" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0009" x="18" y="1056" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0010" x="18" y="1056" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0011" x="18" y="1056" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0012" x="18" y="1056" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0013" x="18" y="1056" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0014" x="18" y="1056" width="1235" height="314"/>
+	<SubTexture name="upperlightfull0015" x="18" y="1056" width="1235" height="314"/>
+</TextureAtlas>

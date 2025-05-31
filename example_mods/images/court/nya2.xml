@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nya2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nya idle0000" x="18" y="18" width="386" height="751"/>
+	<SubTexture name="nya idle0001" x="18" y="18" width="386" height="751"/>
+	<SubTexture name="nya idle0002" x="436" y="18" width="386" height="751"/>
+	<SubTexture name="nya idle0003" x="436" y="18" width="386" height="751"/>
+	<SubTexture name="nya idle0004" x="854" y="18" width="386" height="751"/>
+	<SubTexture name="nya idle0005" x="854" y="18" width="386" height="751"/>
+	<SubTexture name="nya idle0006" x="1272" y="18" width="386" height="751"/>
+	<SubTexture name="nya idle0007" x="1272" y="18" width="386" height="751"/>
+	<SubTexture name="nya idle0008" x="18" y="801" width="386" height="751"/>
+	<SubTexture name="nya idle0009" x="18" y="801" width="386" height="751"/>
+	<SubTexture name="nya idle0010" x="18" y="801" width="386" height="751"/>
+	<SubTexture name="nya idle0011" x="18" y="801" width="386" height="751"/>
+	<SubTexture name="nya idle0012" x="18" y="801" width="386" height="751"/>
+	<SubTexture name="nya idle0013" x="18" y="801" width="386" height="751"/>
+</TextureAtlas>

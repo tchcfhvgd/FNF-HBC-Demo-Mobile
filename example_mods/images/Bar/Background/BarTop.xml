@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BarTop.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bartop0000" x="18" y="18" width="1475" height="961"/>
+	<SubTexture name="Bartop0001" x="18" y="18" width="1475" height="961"/>
+	<SubTexture name="Bartop0002" x="1525" y="18" width="1475" height="961"/>
+	<SubTexture name="Bartop0003" x="1525" y="18" width="1475" height="961"/>
+	<SubTexture name="Bartop0004" x="18" y="1011" width="1475" height="961"/>
+	<SubTexture name="Bartop0005" x="18" y="1011" width="1475" height="961"/>
+	<SubTexture name="Bartop0006" x="1525" y="1011" width="1475" height="961"/>
+	<SubTexture name="Bartop0007" x="1525" y="1011" width="1475" height="961"/>
+	<SubTexture name="Bartop0008" x="1525" y="1011" width="1475" height="961"/>
+	<SubTexture name="Bartop0009" x="1525" y="1011" width="1475" height="961"/>
+</TextureAtlas>

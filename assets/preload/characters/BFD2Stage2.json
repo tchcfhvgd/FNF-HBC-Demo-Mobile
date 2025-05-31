@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-10,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				29,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-38,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				54,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/BF/BFD2Stage2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "BFSpookyD1-2",
+	"flip_x": true,
+	"healthbar_colors": [
+		2,
+		2,
+		2
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

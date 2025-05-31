@@ -1,0 +1,3 @@
+Haxe camera fade
+Must be manually stopped with stopFX
+Value 2: DURATION of the fade

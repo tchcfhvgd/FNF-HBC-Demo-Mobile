@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="picoburns.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="BURN MOTHERFUCKER0000" x="20" y="20" width="707" height="462" frameX="-23" frameY="-60" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0001" x="20" y="20" width="707" height="462" frameX="-23" frameY="-60" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0002" x="747" y="20" width="715" height="481" frameX="-13" frameY="-41" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0003" x="747" y="20" width="715" height="481" frameX="-13" frameY="-41" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0004" x="1482" y="20" width="717" height="509" frameX="-8" frameY="-13" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0005" x="1482" y="20" width="717" height="509" frameX="-8" frameY="-13" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0006" x="2219" y="20" width="715" height="476" frameX="0" frameY="-46" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0007" x="2219" y="20" width="715" height="476" frameX="0" frameY="-46" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0008" x="2954" y="20" width="703" height="494" frameX="-2" frameY="-28" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0009" x="2954" y="20" width="703" height="494" frameX="-2" frameY="-28" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0010" x="20" y="549" width="705" height="522" frameX="0" frameY="0" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0011" x="20" y="549" width="705" height="522" frameX="0" frameY="0" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0012" x="745" y="549" width="724" height="488" frameX="-18" frameY="-34" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0013" x="745" y="549" width="724" height="488" frameX="-18" frameY="-34" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0014" x="1489" y="549" width="695" height="475" frameX="-21" frameY="-47" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0015" x="1489" y="549" width="695" height="475" frameX="-21" frameY="-47" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0016" x="2204" y="549" width="709" height="493" frameX="-17" frameY="-29" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="BURN MOTHERFUCKER0017" x="2204" y="549" width="709" height="493" frameX="-17" frameY="-29" frameWidth="742" frameHeight="522"/>
+	<SubTexture name="uh oh no more burning0000" x="2933" y="549" width="675" height="462" frameX="-23" frameY="-34" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0001" x="2933" y="549" width="675" height="462" frameX="-23" frameY="-34" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0002" x="20" y="1091" width="685" height="453" frameX="-13" frameY="-43" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0003" x="20" y="1091" width="685" height="453" frameX="-13" frameY="-43" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0004" x="725" y="1091" width="690" height="468" frameX="-8" frameY="-28" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0005" x="725" y="1091" width="690" height="468" frameX="-8" frameY="-28" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0006" x="1435" y="1091" width="698" height="476" frameX="0" frameY="-20" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0007" x="1435" y="1091" width="698" height="476" frameX="0" frameY="-20" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0008" x="2153" y="1091" width="696" height="486" frameX="-2" frameY="-10" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0009" x="2153" y="1091" width="696" height="486" frameX="-2" frameY="-10" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0010" x="2869" y="1091" width="698" height="496"/>
+	<SubTexture name="uh oh no more burning0011" x="2869" y="1091" width="698" height="496"/>
+	<SubTexture name="uh oh no more burning0012" x="20" y="1607" width="680" height="488" frameX="-18" frameY="-8" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0013" x="20" y="1607" width="680" height="488" frameX="-18" frameY="-8" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0014" x="720" y="1607" width="677" height="475" frameX="-21" frameY="-21" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0015" x="720" y="1607" width="677" height="475" frameX="-21" frameY="-21" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0016" x="1417" y="1607" width="681" height="480" frameX="-17" frameY="-16" frameWidth="698" frameHeight="496"/>
+	<SubTexture name="uh oh no more burning0017" x="1417" y="1607" width="681" height="480" frameX="-17" frameY="-16" frameWidth="698" frameHeight="496"/>
+</TextureAtlas>

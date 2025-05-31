@@ -1,0 +1,4 @@
+Only works on 'courtd3' stage
+Angels grace (and v5)
+automatic dodge mechanic, but is manual when
+"DodgeMechanic" is loaded

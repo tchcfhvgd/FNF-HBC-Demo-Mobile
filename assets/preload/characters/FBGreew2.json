@@ -1,0 +1,170 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "greewirl idle0"
+		},
+		{
+			"offsets": [
+				26,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "greewirl left0"
+		},
+		{
+			"offsets": [
+				21,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "greewirl down0"
+		},
+		{
+			"offsets": [
+				10,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "greewirl up0"
+		},
+		{
+			"offsets": [
+				15,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "greewirl right0"
+		},
+		{
+			"offsets": [
+				908,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Die",
+			"indices": [],
+			"name": "greewirl DYING"
+		},
+		{
+			"offsets": [
+				103,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "greewirl idle-alt"
+		},
+		{
+			"offsets": [
+				158,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "greewirl left-alt"
+		},
+		{
+			"offsets": [
+				103,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "greewirl down-alt"
+		},
+		{
+			"offsets": [
+				70,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "greewirl up-alt"
+		},
+		{
+			"offsets": [
+				72,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "greewirl right-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bonus/Unmanageable/Characters/FB Greew",
+	"position": [
+		-150,
+		-110
+	],
+	"healthicon": "FBGreew2",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		36,
+		32
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

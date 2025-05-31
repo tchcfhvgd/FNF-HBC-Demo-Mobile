@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darnell_d3_eyes.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle-watches0000" x="18" y="18" width="330" height="473"/>
+	<SubTexture name="idle-watches0001" x="18" y="18" width="330" height="473"/>
+	<SubTexture name="idle-watches0002" x="380" y="18" width="330" height="473"/>
+	<SubTexture name="idle-watches0003" x="380" y="18" width="330" height="473"/>
+	<SubTexture name="idle-watches0004" x="742" y="18" width="330" height="473"/>
+	<SubTexture name="idle-watches0005" x="742" y="18" width="330" height="473"/>
+	<SubTexture name="idle-watches0006" x="1104" y="18" width="330" height="473"/>
+	<SubTexture name="idle-watches0007" x="1104" y="18" width="330" height="473"/>
+	<SubTexture name="idle-watches-loop0000" x="1466" y="18" width="325" height="473"/>
+	<SubTexture name="idle-watches-loop0001" x="1466" y="18" width="325" height="473"/>
+	<SubTexture name="idle-watches-loop0002" x="18" y="523" width="325" height="473"/>
+	<SubTexture name="idle-watches-loop0003" x="18" y="523" width="325" height="473"/>
+	<SubTexture name="idle-watches-loop0004" x="375" y="523" width="325" height="473"/>
+	<SubTexture name="idle-watches-loop0005" x="375" y="523" width="325" height="473"/>
+	<SubTexture name="idle-watches-loop0006" x="732" y="523" width="325" height="473"/>
+	<SubTexture name="idle-watches-loop0007" x="732" y="523" width="325" height="473"/>
+</TextureAtlas>

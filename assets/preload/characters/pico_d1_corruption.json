@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note"
+		},
+		{
+			"offsets": [
+				17,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note"
+		},
+		{
+			"offsets": [
+				-48,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico NOTE LEFT"
+		},
+		{
+			"offsets": [
+				91,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico Note Right"
+		},
+		{
+			"offsets": [
+				18,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "notice corruption",
+			"indices": [],
+			"name": "Pico whar"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				14
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Pico Idle Dance-alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico_d1_corruption",
+	"position": [
+		-150,
+		350
+	],
+	"healthicon": "pico_darnell_d1",
+	"flip_x": true,
+	"healthbar_colors": [
+		144,
+		59,
+		60
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

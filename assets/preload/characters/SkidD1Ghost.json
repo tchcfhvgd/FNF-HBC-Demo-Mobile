@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				283,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				87,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				343,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				7,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				98,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Skid/D1/SkidGhost",
+	"position": [
+		120,
+		335
+	],
+	"healthicon": "SkidGhost",
+	"flip_x": true,
+	"healthbar_colors": [
+		202,
+		239,
+		235
+	],
+	"camera_position": [
+		350,
+		65
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

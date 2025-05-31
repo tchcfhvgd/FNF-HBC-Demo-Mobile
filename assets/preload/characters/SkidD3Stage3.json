@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				68,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				117,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				61,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-8
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-8
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				17,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				29,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "up-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Skid/D3/SkidD3Stage3",
+	"position": [
+		50,
+		490
+	],
+	"healthicon": "SkidD3-2n3",
+	"flip_x": true,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		210,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

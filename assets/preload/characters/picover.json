@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "HB Takeover CPico Idle Dance"
+		},
+		{
+			"offsets": [
+				96,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "HB Takeover CPico left"
+		},
+		{
+			"offsets": [
+				25,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "HB Takeover CPico up"
+		},
+		{
+			"offsets": [
+				4,
+				-65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "HB Takeover CPico down"
+		},
+		{
+			"offsets": [
+				-16,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "HB Takeover CPico right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wtf tacolover",
+	"position": [
+		45,
+		290
+	],
+	"healthicon": "picover",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		0,
+		0
+	],
+	"camera_position": [
+		60,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

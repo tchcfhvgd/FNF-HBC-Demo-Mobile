@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				66,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "throw",
+			"loop": false,
+			"name": "BF throw mic"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/BF/D3/BFD3Stage2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "SpookersBFD3-2",
+	"flip_x": true,
+	"healthbar_colors": [
+		2,
+		2,
+		2
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

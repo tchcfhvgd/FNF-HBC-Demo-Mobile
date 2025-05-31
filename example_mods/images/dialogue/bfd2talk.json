@@ -1,0 +1,37 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.25,
+	"image": "bf_d2_talkpng",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				-12
+			],
+			"anim": "talk",
+			"idle_name": "BF idle dance",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				-28,
+				-14
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				-27,
+				-13
+			],
+			"idle_name": "BF NOTE UP",
+			"loop_name": ""
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"storyName": "Grand Opening",
+	"difficulties": "Hard, Normal",
+	"hideFreeplay": false,
+	"weekBackground": "Prologue",
+	"weekBefore": "Prologue",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Dragged Down To Hell",
+			"HellLemon",
+			[
+				138,
+				1,
+				3
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Grand Opening"
+}

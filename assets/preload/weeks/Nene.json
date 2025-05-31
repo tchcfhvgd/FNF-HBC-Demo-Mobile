@@ -1,0 +1,35 @@
+{
+	"storyName": "The House Always Wins",
+	"difficulties": "Hard, Normal",
+	"hideFreeplay": false,
+	"weekBackground": "Nene",
+	"weekBefore": "Spookers",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Flashy Sins",
+			"NeneD1",
+			[
+				146,
+				113,
+				300
+			]
+		],
+		[
+			"Apathetic Wrath",
+			"Nene_D2_1",
+			[
+				75,
+				0,
+				130
+			]
+		]
+	],
+	"weekName": "The House Always Wins."
+}

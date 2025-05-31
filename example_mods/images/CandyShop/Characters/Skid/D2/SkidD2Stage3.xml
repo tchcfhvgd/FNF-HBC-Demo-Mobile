@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SkidD2Stage3.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="18" y="18" width="421" height="400"/>
+	<SubTexture name="down0001" x="18" y="18" width="421" height="400"/>
+	<SubTexture name="down0002" x="471" y="18" width="421" height="400"/>
+	<SubTexture name="down0003" x="471" y="18" width="421" height="400"/>
+	<SubTexture name="down0004" x="924" y="18" width="421" height="400"/>
+	<SubTexture name="down0005" x="924" y="18" width="421" height="400"/>
+	<SubTexture name="down0006" x="1377" y="18" width="421" height="400"/>
+	<SubTexture name="down0007" x="1377" y="18" width="421" height="400"/>
+	<SubTexture name="down0008" x="1377" y="18" width="421" height="400"/>
+	<SubTexture name="down0009" x="1377" y="18" width="421" height="400"/>
+	<SubTexture name="down0010" x="1377" y="18" width="421" height="400"/>
+	<SubTexture name="idle0000" x="1830" y="18" width="329" height="425"/>
+	<SubTexture name="idle0001" x="1830" y="18" width="329" height="425"/>
+	<SubTexture name="idle0002" x="2191" y="18" width="329" height="425"/>
+	<SubTexture name="idle0003" x="2191" y="18" width="329" height="425"/>
+	<SubTexture name="idle0004" x="2552" y="18" width="329" height="425"/>
+	<SubTexture name="idle0005" x="2552" y="18" width="329" height="425"/>
+	<SubTexture name="idle0006" x="2913" y="18" width="329" height="425"/>
+	<SubTexture name="idle0007" x="2913" y="18" width="329" height="425"/>
+	<SubTexture name="idle0008" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0009" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0010" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0011" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0012" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0013" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0014" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0015" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0016" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0017" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0018" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="idle0019" x="3274" y="18" width="329" height="425"/>
+	<SubTexture name="left0000" x="3635" y="18" width="368" height="422"/>
+	<SubTexture name="left0001" x="3635" y="18" width="368" height="422"/>
+	<SubTexture name="left0002" x="18" y="475" width="368" height="422"/>
+	<SubTexture name="left0003" x="18" y="475" width="368" height="422"/>
+	<SubTexture name="left0004" x="418" y="475" width="368" height="422"/>
+	<SubTexture name="left0005" x="418" y="475" width="368" height="422"/>
+	<SubTexture name="left0006" x="818" y="475" width="368" height="422"/>
+	<SubTexture name="left0007" x="818" y="475" width="368" height="422"/>
+	<SubTexture name="left0008" x="818" y="475" width="368" height="422"/>
+	<SubTexture name="left0009" x="818" y="475" width="368" height="422"/>
+	<SubTexture name="left0010" x="818" y="475" width="368" height="422"/>
+	<SubTexture name="right0000" x="1218" y="475" width="314" height="408"/>
+	<SubTexture name="right0001" x="1218" y="475" width="314" height="408"/>
+	<SubTexture name="right0002" x="1564" y="475" width="314" height="408"/>
+	<SubTexture name="right0003" x="1564" y="475" width="314" height="408"/>
+	<SubTexture name="right0004" x="1910" y="475" width="314" height="408"/>
+	<SubTexture name="right0005" x="1910" y="475" width="314" height="408"/>
+	<SubTexture name="right0006" x="2256" y="475" width="314" height="408"/>
+	<SubTexture name="right0007" x="2256" y="475" width="314" height="408"/>
+	<SubTexture name="right0008" x="2256" y="475" width="314" height="408"/>
+	<SubTexture name="right0009" x="2256" y="475" width="314" height="408"/>
+	<SubTexture name="right0010" x="2256" y="475" width="314" height="408"/>
+	<SubTexture name="up0000" x="2602" y="475" width="243" height="431"/>
+	<SubTexture name="up0001" x="2602" y="475" width="243" height="431"/>
+	<SubTexture name="up0002" x="2877" y="475" width="243" height="431"/>
+	<SubTexture name="up0003" x="2877" y="475" width="243" height="431"/>
+	<SubTexture name="up0004" x="3152" y="475" width="243" height="431"/>
+	<SubTexture name="up0005" x="3152" y="475" width="243" height="431"/>
+	<SubTexture name="up0006" x="3427" y="475" width="243" height="431"/>
+	<SubTexture name="up0007" x="3427" y="475" width="243" height="431"/>
+	<SubTexture name="up0008" x="3427" y="475" width="243" height="431"/>
+	<SubTexture name="up0009" x="3427" y="475" width="243" height="431"/>
+	<SubTexture name="up0010" x="3427" y="475" width="243" height="431"/>
+	<SubTexture name="wipe tears0000" x="3702" y="475" width="347" height="425"/>
+	<SubTexture name="wipe tears0001" x="3702" y="475" width="347" height="425"/>
+	<SubTexture name="wipe tears0002" x="18" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0003" x="18" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0004" x="397" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0005" x="397" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0006" x="776" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0007" x="776" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0008" x="1155" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0009" x="1155" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0010" x="1534" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0011" x="1534" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0012" x="1913" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0013" x="1913" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0014" x="2292" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0015" x="2292" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0016" x="2292" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0017" x="2292" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0018" x="2292" y="938" width="347" height="425"/>
+	<SubTexture name="wipe tears0019" x="2292" y="938" width="347" height="425"/>
+</TextureAtlas>

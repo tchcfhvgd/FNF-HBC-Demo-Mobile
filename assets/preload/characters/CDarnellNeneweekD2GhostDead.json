@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				361,
+				154
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				306,
+				-49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				260
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				88
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right-alt0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Bar/Characters/CDarnell/D2/chuddinbutdead",
+	"position": [
+		-120,
+		400
+	],
+	"healthicon": "hallucinationchud2",
+	"flip_x": true,
+	"healthbar_colors": [
+		114,
+		74,
+		156
+	],
+	"camera_position": [
+		-52,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 0.85
+}

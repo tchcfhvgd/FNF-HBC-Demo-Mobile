@@ -1,0 +1,3 @@
+Value 1: LUA Sprite Tag
+(MUST already be made and invisible)
+Value 2: How long will it stay on screen

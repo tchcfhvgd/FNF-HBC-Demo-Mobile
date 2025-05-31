@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darnell_dialogue_d2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darnell bro chill0000" x="18" y="18" width="392" height="506"/>
+	<SubTexture name="darnell bro chill0001" x="18" y="18" width="392" height="506"/>
+	<SubTexture name="darnell no0000" x="442" y="18" width="374" height="521"/>
+	<SubTexture name="darnell no0001" x="442" y="18" width="374" height="521"/>
+	<SubTexture name="darnell thinking0000" x="848" y="18" width="348" height="503"/>
+	<SubTexture name="darnell thinking0001" x="848" y="18" width="348" height="503"/>
+</TextureAtlas>

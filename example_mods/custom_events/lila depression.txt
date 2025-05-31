@@ -1,0 +1,9 @@
+only works in LilaHouse stage
+Stage changes for each time period
+
+v1: Stage to change to (1 to 5)
+
+Loading a stage will remove the previous one's sprite
+
+Notes are decolored depending
+on the stage

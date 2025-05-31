@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BarSlotMachine.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Slot machine idle0000" x="18" y="18" width="502" height="761"/>
+	<SubTexture name="Slot machine idle0001" x="18" y="18" width="502" height="761"/>
+	<SubTexture name="Slot machine idle0002" x="552" y="18" width="485" height="743" frameX="-17" frameY="-18" frameWidth="502" frameHeight="761"/>
+	<SubTexture name="Slot machine idle0003" x="552" y="18" width="485" height="743" frameX="-17" frameY="-18" frameWidth="502" frameHeight="761"/>
+	<SubTexture name="Slot machine idle0004" x="1069" y="18" width="485" height="740" frameX="-17" frameY="-21" frameWidth="502" frameHeight="761"/>
+	<SubTexture name="Slot machine idle0005" x="1069" y="18" width="485" height="740" frameX="-17" frameY="-21" frameWidth="502" frameHeight="761"/>
+	<SubTexture name="Slot machine idle0006" x="18" y="811" width="485" height="738" frameX="-17" frameY="-23" frameWidth="502" frameHeight="761"/>
+	<SubTexture name="Slot machine idle0007" x="18" y="811" width="485" height="738" frameX="-17" frameY="-23" frameWidth="502" frameHeight="761"/>
+	<SubTexture name="Slot machine idle0008" x="18" y="811" width="485" height="738" frameX="-17" frameY="-23" frameWidth="502" frameHeight="761"/>
+	<SubTexture name="Slot machine idle0009" x="18" y="811" width="485" height="738" frameX="-17" frameY="-23" frameWidth="502" frameHeight="761"/>
+</TextureAtlas>

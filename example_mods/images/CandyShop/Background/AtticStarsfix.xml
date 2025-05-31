@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AtticStarsfix.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stars0000" x="18" y="18" width="3355" height="2851"/>
+	<SubTexture name="stars0001" x="18" y="18" width="3355" height="2851"/>
+	<SubTexture name="stars0002" x="3405" y="18" width="3355" height="2851"/>
+	<SubTexture name="stars0003" x="3405" y="18" width="3355" height="2851"/>
+	<SubTexture name="stars0004" x="18" y="2901" width="3355" height="2851"/>
+	<SubTexture name="stars0005" x="18" y="2901" width="3355" height="2851"/>
+	<SubTexture name="stars0006" x="3405" y="2901" width="3355" height="2851"/>
+	<SubTexture name="stars0007" x="3405" y="2901" width="3355" height="2851"/>
+</TextureAtlas>

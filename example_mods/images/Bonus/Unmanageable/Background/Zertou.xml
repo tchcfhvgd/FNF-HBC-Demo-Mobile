@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zertou.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zertwo0000" x="18" y="18" width="320" height="387" frameX="-14" frameY="-7" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0001" x="18" y="18" width="320" height="387" frameX="-14" frameY="-7" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0002" x="370" y="18" width="320" height="388" frameX="-13" frameY="-5" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0003" x="370" y="18" width="320" height="388" frameX="-13" frameY="-5" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0004" x="722" y="18" width="318" height="392" frameX="-15" frameY="0" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0005" x="722" y="18" width="318" height="392" frameX="-15" frameY="0" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0006" x="1072" y="18" width="321" height="390" frameX="-3" frameY="-2" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0007" x="1072" y="18" width="321" height="390" frameX="-3" frameY="-2" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0008" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0009" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0010" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0011" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0012" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0013" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0014" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0015" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0016" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0017" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0018" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+	<SubTexture name="zertwo0019" x="1425" y="18" width="322" height="389" frameX="0" frameY="-3" frameWidth="334" frameHeight="394"/>
+</TextureAtlas>

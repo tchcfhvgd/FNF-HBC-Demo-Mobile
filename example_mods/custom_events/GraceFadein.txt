@@ -1,0 +1,3 @@
+Used for the fade in at the
+start of Angels Grace,
+all it does is fade in CamGame.

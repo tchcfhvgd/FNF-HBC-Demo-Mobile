@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				66,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				57,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				86,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				43,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				56,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				60,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Tear",
+			"loop": false,
+			"name": "wipe tears"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Skid/D2/SkidD2Stage3",
+	"position": [
+		364,
+		150
+	],
+	"healthicon": "SPD2S3",
+	"flip_x": false,
+	"healthbar_colors": [
+		159,
+		138,
+		50
+	],
+	"camera_position": [
+		-300,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

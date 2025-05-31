@@ -1,0 +1,224 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				53,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				53,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				433,
+				28
+			],
+			"anim": "Dies",
+			"fps": 24,
+			"name": "dies",
+			"indices": []
+		},
+		{
+			"offsets": [
+				207,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-C0",
+			"indices": [],
+			"name": "idle-c0"
+		},
+		{
+			"offsets": [
+				207,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-C1",
+			"indices": [],
+			"name": "idle-c1"
+		},
+		{
+			"offsets": [
+				207,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-C2",
+			"indices": [],
+			"name": "idle-c2"
+		},
+		{
+			"offsets": [
+				207,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-C3",
+			"indices": [],
+			"name": "idle-c3"
+		},
+		{
+			"offsets": [
+				207,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-C4",
+			"indices": [],
+			"name": "idle-c4"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				22
+			],
+			"anim": "danceLeft-H1",
+			"fps": 24,
+			"name": "idle-h1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				23
+			],
+			"anim": "danceRight-H1",
+			"fps": 24,
+			"name": "idle-h1",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				651,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-H2",
+			"indices": [],
+			"name": "idle-h2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Pump/D3/PumpD3AllStages",
+	"position": [
+		474,
+		490
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		-400,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

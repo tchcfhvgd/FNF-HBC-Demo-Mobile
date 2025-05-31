@@ -1,0 +1,50 @@
+{
+	"storyName": "wtf kms its mommy mearest from friday night funkin wtf",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "null",
+	"weekBefore": "Nene",
+	"startUnlocked": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"paralyzed",
+			"mmd1",
+			[
+				70,
+				158,
+				148
+			]
+		],
+		[
+			"stronger",
+			"mmd2",
+			[
+				11,
+				100,
+				90
+			]
+		],
+		[
+			"final chance",
+			"mmd3",
+			[
+				0,
+				69,
+				71
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "vs mom mearest real wtf"
+}

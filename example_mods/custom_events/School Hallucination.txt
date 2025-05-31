@@ -1,0 +1,5 @@
+School Hallucination for Apathetic Wrath
+ONLY WORKS IN "BarD2" STAGE!!
+Value 1: Put '1' to switch to school
+	Put '2' for "staring at you" alt
+	Put '3' to switch back to bar.

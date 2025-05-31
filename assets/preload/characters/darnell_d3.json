@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				49,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-19,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-28,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				20,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-31,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fire",
+			"indices": [],
+			"name": "fire"
+		},
+		{
+			"offsets": [
+				-2000,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle-dead"
+		},
+		{
+			"offsets": [
+				-30,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-dead",
+			"indices": [],
+			"name": "idle-dead0"
+		},
+		{
+			"offsets": [
+				305,
+				534
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "chuddin time",
+			"indices": [],
+			"name": "it's chudding time"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle-lives",
+			"fps": 24,
+			"name": "idle-lives0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-lives-loop",
+			"fps": 24,
+			"name": "idle-lives-loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-dead-loop",
+			"loop": true,
+			"name": "idle-dead-loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/darnell_d3",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.15
+}

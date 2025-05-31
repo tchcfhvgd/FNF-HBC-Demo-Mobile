@@ -1,0 +1,3 @@
+fades the cam black at the very end
+MIGHT lag cus onUpdate
+shouldnt, but might

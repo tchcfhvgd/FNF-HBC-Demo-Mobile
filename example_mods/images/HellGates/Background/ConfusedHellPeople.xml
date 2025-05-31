@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ConfusedHellPeople.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ConfusedBop0000" x="18" y="18" width="1794" height="360" frameX="0" frameY="-2" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0001" x="18" y="18" width="1794" height="360" frameX="0" frameY="-2" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0002" x="18" y="410" width="1793" height="361" frameX="-3" frameY="-2" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0003" x="18" y="410" width="1793" height="361" frameX="-3" frameY="-2" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0004" x="18" y="803" width="1804" height="364" frameX="-7" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0005" x="18" y="803" width="1804" height="364" frameX="-7" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0006" x="18" y="1199" width="1807" height="362" frameX="-2" frameY="-1" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0007" x="18" y="1199" width="1807" height="362" frameX="-2" frameY="-1" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0008" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0009" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0010" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0011" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0012" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0013" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0014" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0015" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0016" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0017" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0018" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+	<SubTexture name="ConfusedBop0019" x="18" y="1593" width="1804" height="363" frameX="-2" frameY="0" frameWidth="1811" frameHeight="364"/>
+</TextureAtlas>

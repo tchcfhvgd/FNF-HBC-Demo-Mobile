@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="voj.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flagwave0000" x="18" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0001" x="18" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0002" x="569" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0003" x="569" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0004" x="1120" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0005" x="1120" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0006" x="1671" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0007" x="1671" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0008" x="2222" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0009" x="2222" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0010" x="2773" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0011" x="2773" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0012" x="3324" y="18" width="519" height="791"/>
+	<SubTexture name="flagwave0013" x="3324" y="18" width="519" height="791"/>
+</TextureAtlas>

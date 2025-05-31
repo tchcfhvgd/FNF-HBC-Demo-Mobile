@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				52,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				67,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				50,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				50,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				7
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				4
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "CandyShop/Characters/Pump/D4/PumpStage6",
+	"position": [
+		570,
+		330
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		170,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.86
+}

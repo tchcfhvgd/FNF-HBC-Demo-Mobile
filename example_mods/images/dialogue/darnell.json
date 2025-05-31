@@ -1,0 +1,50 @@
+{
+	"position": [
+		110,
+		-10
+	],
+	"dialogue_pos": "right",
+	"scale": 1.45,
+	"image": "darnell_dialogue_d2",
+	"animations": [
+		{
+			"loop_name": "darnell no",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "darnell no",
+			"anim": "no",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "darnell thinking",
+			"anim": "thinking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "darnell thinking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "darnell thinking",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,4 @@
+Value1 = The amount of time you want the flash
+to last for.
+If you leave value1 empty the flash will last for 
+0.5 seconds

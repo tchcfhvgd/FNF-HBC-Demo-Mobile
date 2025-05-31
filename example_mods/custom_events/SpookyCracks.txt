@@ -1,0 +1,4 @@
+Simple flashing cracks loop,
+used for Devotion
+Value 1: Type '1' to enable cracks loop
+	Type '0' to disable it

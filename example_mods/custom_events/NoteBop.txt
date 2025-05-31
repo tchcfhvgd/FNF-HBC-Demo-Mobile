@@ -1,0 +1,3 @@
+Alternating notes effect from Flashy Sins
+Value 1: Put '1' to enable,
+         leave blank to disable

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HellGateLava.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LavaFall0000" x="18" y="18" width="1657" height="648" frameX="-24" frameY="-6" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0001" x="1707" y="18" width="1657" height="648" frameX="-24" frameY="-6" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0002" x="3396" y="18" width="1644" height="663" frameX="-27" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0003" x="5072" y="18" width="1644" height="663" frameX="-27" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0004" x="18" y="713" width="1640" height="652" frameX="-19" frameY="0" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0005" x="1690" y="713" width="1640" height="652" frameX="-19" frameY="0" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0006" x="3362" y="713" width="1650" height="639" frameX="-13" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0007" x="5044" y="713" width="1650" height="664" frameX="-13" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0008" x="18" y="1409" width="1655" height="666" frameX="-14" frameY="-1" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0009" x="1705" y="1409" width="1655" height="652" frameX="-14" frameY="-1" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0010" x="3392" y="1409" width="1665" height="657" frameX="-7" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0011" x="5089" y="1409" width="1665" height="657" frameX="-7" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0012" x="18" y="2107" width="1676" height="646" frameX="0" frameY="0" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0013" x="1726" y="2107" width="1676" height="648" frameX="0" frameY="0" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0014" x="3434" y="2107" width="1679" height="669" frameX="0" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0015" x="5145" y="2107" width="1679" height="669" frameX="0" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0016" x="18" y="2808" width="1673" height="655" frameX="-5" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0017" x="1723" y="2808" width="1673" height="655" frameX="-5" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0018" x="3428" y="2808" width="1670" height="645" frameX="-9" frameY="-3" frameWidth="1681" frameHeight="672"/>
+	<SubTexture name="LavaFall0019" x="5130" y="2808" width="1670" height="645" frameX="-9" frameY="-3" frameWidth="1681" frameHeight="672"/>
+</TextureAtlas>

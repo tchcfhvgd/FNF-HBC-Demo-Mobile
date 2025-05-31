@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CArvehu.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CArvehu0000" x="18" y="18" width="316" height="427" frameX="0" frameY="-17" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0001" x="18" y="18" width="316" height="427" frameX="0" frameY="-17" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0002" x="366" y="18" width="317" height="434" frameX="-5" frameY="-9" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0003" x="366" y="18" width="317" height="434" frameX="-5" frameY="-9" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0004" x="715" y="18" width="319" height="442" frameX="-11" frameY="0" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0005" x="715" y="18" width="319" height="442" frameX="-11" frameY="0" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0006" x="1066" y="18" width="321" height="439" frameX="-15" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0007" x="1066" y="18" width="321" height="439" frameX="-15" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0008" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0009" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0010" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0011" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0012" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0013" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0014" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0015" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0016" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0017" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0018" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+	<SubTexture name="CArvehu0019" x="1419" y="18" width="319" height="439" frameX="-13" frameY="-4" frameWidth="336" frameHeight="444"/>
+</TextureAtlas>

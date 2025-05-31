@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				34,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-20,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				36,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				27,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				14
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-notcooldude",
+			"loop": false,
+			"name": "idle-notcooldude"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/darnell_d1_corruption",
+	"position": [
+		-150,
+		190
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CorruptedHellPeople.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CorruptedBop0000" x="18" y="18" width="1804" height="359" frameX="0" frameY="-2" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0001" x="18" y="18" width="1804" height="359" frameX="0" frameY="-2" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0002" x="18" y="409" width="1809" height="360" frameX="-1" frameY="-2" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0003" x="18" y="409" width="1809" height="360" frameX="-1" frameY="-2" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0004" x="18" y="801" width="1817" height="363" frameX="-6" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0005" x="18" y="801" width="1817" height="363" frameX="-6" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0006" x="18" y="1196" width="1815" height="361" frameX="-6" frameY="-1" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0007" x="18" y="1196" width="1815" height="361" frameX="-6" frameY="-1" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0008" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0009" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0010" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0011" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0012" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0013" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0014" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0015" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0016" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0017" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0018" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+	<SubTexture name="CorruptedBop0019" x="18" y="1589" width="1816" height="362" frameX="-3" frameY="0" frameWidth="1823" frameHeight="363"/>
+</TextureAtlas>
