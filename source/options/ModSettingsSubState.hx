@@ -64,7 +64,6 @@ class ModSettingsSubState extends BaseOptionsMenu
 			false);
 		addOption(option);
 		
-		#if !mobile
 		var option:Option = new Option('Showcase Mode',
 			'Hides the FPS, Score, and Botplay text.',
 			'showFPS',
@@ -72,19 +71,14 @@ class ModSettingsSubState extends BaseOptionsMenu
 			false);
 		addOption(option);
 		option.onChange = onChangeFPSCounter;
-		#end
 
 		super();
 	}
 
-
-
-	#if !mobile
 	function onChangeFPSCounter()
 		{
 			if(Main.fpsVar != null)
 				Main.fpsVar.visible = !ClientPrefs.showFPS;
 		}
-	#end
 
 }
