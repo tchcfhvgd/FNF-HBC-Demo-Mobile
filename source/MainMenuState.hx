@@ -176,7 +176,7 @@ class MainMenuState extends MusicBeatState
 		discord.scrollFactor.set();
 		add(discord);
 
-		discordSelected = new FlxSprite(12, FlxG.height - 160).loadGraphic(Paths.image('credits/old/discordSelected'));
+		discordSelected = new FlxSprite(12, FlxG.height - 120).loadGraphic(Paths.image('credits/old/discordSelected'));
 		discordSelected.scale.set(0.6, 0.6);
 		discordSelected.antialiasing = ClientPrefs.globalAntialiasing;
 		discordSelected.updateHitbox();
@@ -203,7 +203,7 @@ class MainMenuState extends MusicBeatState
 
 		super.create();
 		
-		addTouchPad("UP_DOWN", "A_B");
+		addTouchPad("NONE", "B");
 	}
 
 	#if ACHIEVEMENTS_ALLOWED

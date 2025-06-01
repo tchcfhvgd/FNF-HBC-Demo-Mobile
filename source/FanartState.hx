@@ -141,7 +141,8 @@ class FanartState extends MusicBeatState
 		add(textBG);
 		add(text);
 
-		addTouchPad("LEFT_FULL", "A_B");
+		addTouchPad("LEFT_FULL", "B");
+		addTouchPadCamera();
 		
 		super.create();
 
